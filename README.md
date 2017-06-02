@@ -1,5 +1,5 @@
 # MeterMaid
-MeterMaid facilitates the movement of PLC data into Maximo Meters via the Maximo REST API
+MeterMaid facilitates the movement of PLC data into Maximo Meters via the Maximo REST API.
 It currently only supports CLX tags, via the pylogix library
 
 /i             interactive mode
